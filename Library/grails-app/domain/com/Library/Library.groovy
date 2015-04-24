@@ -14,5 +14,10 @@ String toString
 }
 
     static constraints = {
+location()
+openingHours()
+book()
+student()
+librarian()
     }
 }

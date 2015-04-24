@@ -33,5 +33,8 @@ void "test toString"() {
 class Libarian {
 
     static constraints = {
+name()
+email()
+userName()
     }
 }
